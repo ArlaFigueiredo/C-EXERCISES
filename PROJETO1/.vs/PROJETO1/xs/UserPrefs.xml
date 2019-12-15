@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8BB2962B-6A8F-430C-A674-1D261D7529AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PROJETO1/Program.cs">
+    <Files>
+      <File FileName="PROJETO1/Program.cs" Line="3" Column="1" />
+      <File FileName="PROJETO1/Triangulo.cs" Line="7" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PROJETO1" expanded="True">
+            <Node name="PROJETO1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.PROJETO1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/arla/Projects/PROJETO1/PROJETO1/Program.cs" relfile="PROJETO1/Program.cs" line="19" column="66" />
+      <Breakpoint file="/home/arla/Projects/PROJETO1/PROJETO1/Program.cs" relfile="PROJETO1/Program.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/home/arla/Projects/EXERCICIO1/EXERCICIO1/obj/x86/Debug/EXERCICIO1.csprojAssemblyReference.cache
+/home/arla/Projects/EXERCICIO1/EXERCICIO1/bin/Debug/EXERCICIO1.exe
+/home/arla/Projects/EXERCICIO1/EXERCICIO1/bin/Debug/EXERCICIO1.pdb
+/home/arla/Projects/EXERCICIO1/EXERCICIO1/obj/x86/Debug/EXERCICIO1.exe
+/home/arla/Projects/EXERCICIO1/EXERCICIO1/obj/x86/Debug/EXERCICIO1.pdb

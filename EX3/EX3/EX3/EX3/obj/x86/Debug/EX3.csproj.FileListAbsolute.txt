@@ -1,0 +1,5 @@
+/home/arla/Projects/EX3/EX3/EX3/EX3/bin/Debug/EX3.exe
+/home/arla/Projects/EX3/EX3/EX3/EX3/bin/Debug/EX3.pdb
+/home/arla/Projects/EX3/EX3/EX3/EX3/obj/x86/Debug/EX3.csprojAssemblyReference.cache
+/home/arla/Projects/EX3/EX3/EX3/EX3/obj/x86/Debug/EX3.exe
+/home/arla/Projects/EX3/EX3/EX3/EX3/obj/x86/Debug/EX3.pdb

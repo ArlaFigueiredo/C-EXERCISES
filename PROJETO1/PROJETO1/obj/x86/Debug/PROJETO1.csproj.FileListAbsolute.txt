@@ -1,0 +1,5 @@
+/home/arla/Projects/PROJETO1/PROJETO1/bin/Debug/PROJETO1.exe
+/home/arla/Projects/PROJETO1/PROJETO1/bin/Debug/PROJETO1.pdb
+/home/arla/Projects/PROJETO1/PROJETO1/obj/x86/Debug/PROJETO1.csprojAssemblyReference.cache
+/home/arla/Projects/PROJETO1/PROJETO1/obj/x86/Debug/PROJETO1.exe
+/home/arla/Projects/PROJETO1/PROJETO1/obj/x86/Debug/PROJETO1.pdb

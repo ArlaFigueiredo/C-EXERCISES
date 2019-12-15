@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D7987437-CCF2-4857-9159-E959AE4D5419}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EX3/DistanciaSensor.cs">
+    <Files>
+      <File FileName="EX3/Program.cs" Line="16" Column="41" />
+      <File FileName="EX3/NoSensor.cs" Line="10" Column="15" />
+      <File FileName="EX3/DistanciaSensor.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EX3" expanded="True">
+            <Node name="EX3" expanded="True">
+              <Node name="DistanciaSensor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EX3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
