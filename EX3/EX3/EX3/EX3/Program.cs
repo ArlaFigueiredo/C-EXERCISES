@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace EX3
@@ -7,23 +7,11 @@ namespace EX3
     {
         public static void Main()
         {
-            DistanciaSensor distanciasensor = new DistanciaSensor();
+            NoSensor sensor = new NoSensor(1,30,40,20,80);
+            NoSensor sensorOutro = new NoSensor(2,60,120,50,20);
 
-            for (int i = 1; i <= 2; i++)
-            {
-                Console.WriteLine(i);
-                int id = int.Parse(Console.ReadLine());
-                double latitude = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                double longitude = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                double nivel = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                double temperatura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                NoSensor sensor = new NoSensor(id, latitude, longitude, nivel, temperatura);
-                distanciasensor.AddSensor(sensor);
-            }
-
-            double distancia = distanciasensor.Distancia();
-            Console.WriteLine("A distancia entre os sensore eh: " + distancia);
+            Console.WriteLine("A distancia : " + sensor.Distancia(sensorOutro));
 
         }
     }
